@@ -1,4 +1,4 @@
-# AI
+# AI Markov Chain
 
 ## file.txt
 file.txt should not be in the src. It is just a block of text used to train the AI. You can copy any lengths of text into this doc. 
